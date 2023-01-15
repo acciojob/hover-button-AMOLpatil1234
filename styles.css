@@ -2,10 +2,10 @@
 /* Your CSS Code here. */
 #btn{
 	background:black;
-	font color:white;
+	 color:white;
 	border-radius:5px;
 }
 #btn:hover{
-	font color:black:
+	color:black:
 	background:yellow;
 }
